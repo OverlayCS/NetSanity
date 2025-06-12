@@ -1,39 +1,41 @@
 
 # NetSanity Anti-Cheat
 
-**NetSanity** is a lightweight, modular anti-cheat system designed for real-time multiplayer games. Built with performance and flexibility in mind, NetSanity helps detect, prevent, and respond to cheating and unauthorized modifications in both client-side and server-side environments.
+**NetSanity** is a hardline, low-latency anti-cheat framework built for competitive, multiplayer games. Designed to detect and eliminate cheaters with ruthless efficiency, NetSanity doesn’t play nice—**it kicks, bans, and reports on sight**.
 
-![License](https://img.shields.io/badge/license-MIT-green) ![Unity](https://img.shields.io/badge/unity-supported-blue) ![Photon Fusion](https://img.shields.io/badge/photon-fusion%202-compatible-purple)
+> 🧠 *“Cheat once, get flagged. Cheat twice, get banned. NetSanity doesn’t forgive.”*
 
----
-
-## 🔒 Features
-
-- ✅ **Speed/Teleport Detection**
-- ✅ **Integrity Validation** (DLL tampering, APK modification)
-- ✅ **Remote Kick/Ban System** (with optional PlayFab integration)
-- ✅ **Custom Rule Definitions**
-- ✅ **Obfuscated Runtime Checks**
-- ✅ **Network Packet Validation**
-- ✅ **Lightweight Client Footprint**
-- ✅ **Logs + Cheat Reporting System**
+![License](https://img.shields.io/badge/license-MIT-red) ![Photon Fusion](https://img.shields.io/badge/photon-fusion%202-compatible-purple) ![Unity](https://img.shields.io/badge/unity-2021%2B-supported-blue)
 
 ---
 
-## 🧠 How It Works
+## 💣 Key Features
 
-NetSanity uses a modular detection system:
-
-- **Client Module:** Monitors unauthorized code injection, game speed hacks, movement anomalies, and file integrity.
-- **Server Module:** Validates network packets, monitors behavior, and takes corrective actions (kick/ban/report).
-- **Integration Layer:** Hooks into Photon Fusion, PlayFab, or your custom backend for full control.
+- 🔥 **Real-Time Cheat Detection**
+  - Speed hacks, noclip, teleportation, aim assists, and stat injections
+- 🧱 **Binary Integrity Check**
+  - Prevent DLL injection, APK tampering, and unauthorized modding tools (Lemon Loader, etc.)
+- 🧠 **Behavioral Pattern Recognition**
+  - Detect suspicious movement, latency spoofing, and unnatural input
+- 💀 **Immediate Action System**
+  - Kick, softban, hardban, or silently shadowban cheaters
+- ⚔️ **Photon Fusion + PlayFab Integration**
+  - Server-authoritative enforcement and player recordkeeping
+- 🕵️ **Obfuscated Runtime Monitoring**
+  - Lightweight, stealthy, and hard to tamper with
 
 ---
 
-## 🚀 Getting Started
+## ⚡ Installation
 
 ### Requirements
 
-- Unity 2021 or newer
-- Photon Fusion 2 (optional)
-- PlayFab (optional)
+- Unity 2021+
+- Photon Fusion 2 (optional but recommended)
+- PlayFab SDK (for cloud ban support)
+
+### Setup
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/OverlayCS/NetSanity.git
