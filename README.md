@@ -37,9 +37,3 @@ NetSanity uses a modular detection system:
 - Unity 2021 or newer
 - Photon Fusion 2 (optional)
 - PlayFab (optional)
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourname/NetSanity.git
