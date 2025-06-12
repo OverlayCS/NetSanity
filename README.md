@@ -6,6 +6,9 @@
 > 🧠 *“Cheat once, get flagged. Cheat twice, get banned. NetSanity doesn’t forgive.”*
 ---
 
+## User Action Needed
+- you need at least a bit of coding knowledge as you need add a few lines of code to get the anti cheat up and running
+
 ## 💣 Key Features
 
 - 🔥 **Real-Time Cheat Detection**
