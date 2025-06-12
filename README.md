@@ -4,9 +4,6 @@
 **NetSanity** is a hardline, low-latency anti-cheat framework built for competitive, multiplayer games. Designed to detect and eliminate cheaters with ruthless efficiency, NetSanity doesn’t play nice—**it kicks, bans, and reports on sight**.
 
 > 🧠 *“Cheat once, get flagged. Cheat twice, get banned. NetSanity doesn’t forgive.”*
-
-![License](https://img.shields.io/badge/license-MIT-red) ![Photon Fusion](https://img.shields.io/badge/photon-fusion%202-compatible-purple) ![Unity](https://img.shields.io/badge/unity-2021%2B-supported-blue)
-
 ---
 
 ## 💣 Key Features
